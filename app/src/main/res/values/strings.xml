@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sherlock</string>
+    <string name="who">Хто вкрав два кільця ковбаски?</string>
+    <string name="choice">Зробити вибір</string>
+    <string name="cat">Кіт Рижик</string>
+    <string name="dog">Песик Гавчик</string>
+    <string name="crow">Ворона</string>
+    <string name="title_activity_second">Друга активність</string>
+    <string name="title_activity_third">Третя активність</string>
+</resources>
